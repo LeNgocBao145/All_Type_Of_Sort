@@ -3,19 +3,11 @@
 #include <cstring>
 
 #include <vector>
-//#include <algorithm>
+
 
 using namespace std;
 
-void merge(int s[], int l, int m, int r);
 
-void merge(int s[], int l, int m, int r);
-
-void selectionSort(int arr[], int n);
-
-void insertionSort(int arr[], int n);
-
-void countingSort(int arr[], int n);
 
 void selectionSort(int arr[], int n)
 {
